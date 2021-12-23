@@ -22,7 +22,6 @@ message Todo {
     string Status = 6;
     string Created_At = 7;
     string Updated_At = 8;
-    string Deleted_At = 9;
 }
 
 message TodoFunc {
